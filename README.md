@@ -10,7 +10,7 @@ Se aplican técnicas de limpieza de datos, análisis exploratorio y visualizaci�
 
 
 
-## Business Problem 💼
+## El Problema  💼
 Las empresas de banca digital enfrentan el reto de **activar y retener clientes** en un mercado competitivo.  
 El problema central: ¿qué factores influyen en la activación y retención de clientes, y cómo optimizar la experiencia para reducir el churn?
 
