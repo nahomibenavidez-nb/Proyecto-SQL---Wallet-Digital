@@ -1,3 +1,7 @@
+# 🧹📊 Limpieza de Datos en SQL
+
+
+
 SELECT *
 FROM segmentacion_clientes;
 
