@@ -1,5 +1,5 @@
 # Proyecto-SQL---Wallet-Digital
-Se muestra como analizar los Datos de los clientes de una Wallet Digital, Incluye: Limpieza de Datos, Analis Exploratorio de Datos y por último visualizaciones con insights.
+**Se muestra como analizar los Datos de los clientes de una Wallet Digital, Incluye: Limpieza de Datos, Analis Exploratorio de Datos y por último visualizaciones con insights.**
 
 
 
@@ -56,5 +56,5 @@ Escalar el análisis hacia modelos predictivos de churn.
 
 ## 👩‍💻 Autora
 Nahomi Benavidez 
-## Analista de datos en formación | SQL • Power BI • Full Stack
+Analista de datos en formación | SQL • Power BI • Full Stack
 
